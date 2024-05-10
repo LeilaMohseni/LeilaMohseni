@@ -1,7 +1,7 @@
-# About me
+# About ME:
 ***
 
-- 👋 Hi, I’m LeilaMohseni  === @LeilaMohseni
+- 👋 Hi, I’m LeilaMohseni  ===> @LeilaMohseni
 - 👀 I’m interested in Coding and researching about Artificial intelligence and data science ...
 - 🌱 I’m currently learning AI and machin learning ...
 - - 😄 Pronouns: ...
